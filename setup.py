@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='gsheetdf',
-    version='1.0.0',
+    version='1.1.0',
     description='Export Google Sheet to Pandas dataframe',
     url='https://github.com/kunanit/gsheetdf',
     author='Andrew Ang',
